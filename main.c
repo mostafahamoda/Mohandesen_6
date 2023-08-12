@@ -1,11 +1,8 @@
-#include<stdio.h>
+#include <stdio.h>
 
-#include<stdio.h>
-int main ()
+int main()
 {
-
-
-    printf("hallo world");
-
+    
+    printf("Hello World!\n" );
 
 }
