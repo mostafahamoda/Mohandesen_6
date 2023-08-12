@@ -1,4 +1,5 @@
-#include<stdio.h>
+#include <stdio.h>
+
 
 #include<stdio.h>
 void binary (int a[]){
@@ -6,11 +7,11 @@ void binary (int a[]){
 
 
 }
-int main ()
+
+int main()
+
 {
-
-
-    printf("hallo world");
-
+    
+    printf("Hello World!\n" );
 
 }
